@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: 4c3f146466537044f843fc144a06f75f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3957937448307038227
+    second: number-chart-1-100_31156_0
+  - first:
+      213: 7010264161952367244
+    second: number-chart-1-100_31156_1
+  - first:
+      213: 8642039916023315532
+    second: number-chart-1-100_31156_2
+  - first:
+      213: 8127596522297493898
+    second: number-chart-1-100_31156_3
+  - first:
+      213: 130923165228273259
+    second: number-chart-1-100_31156_4
+  - first:
+      213: 5946490785030414586
+    second: number-chart-1-100_31156_5
+  - first:
+      213: 5774139804825313901
+    second: number-chart-1-100_31156_6
+  - first:
+      213: -6090782162408263390
+    second: number-chart-1-100_31156_7
+  - first:
+      213: -511035394416044279
+    second: number-chart-1-100_31156_8
+  - first:
+      213: 154632357677450433
+    second: number-chart-1-100_31156_9
+  - first:
+      213: -8035011826184478760
+    second: number-chart-1-100_31156_10
+  - first:
+      213: 2975328734216421523
+    second: number-chart-1-100_31156_11
+  - first:
+      213: -4867839298016675360
+    second: number-chart-1-100_31156_12
+  - first:
+      213: -4387112906540490718
+    second: number-chart-1-100_31156_13
+  - first:
+      213: -2508784913327857039
+    second: number-chart-1-100_31156_14
+  - first:
+      213: -7708435636163769838
+    second: number-chart-1-100_31156_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 878
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3189e81a32b6de630800000000000000
+      internalID: 3957937448307038227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 878
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8282d20d16794160800000000000000
+      internalID: 7010264161952367244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 886
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cf0512481bee770800000000000000
+      internalID: 8642039916023315532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 881
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a890e35a9f50bc070800000000000000
+      internalID: 8127596522297493898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 884
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e0d44dce121d100800000000000000
+      internalID: 130923165228273259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 885
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af02fd5fcdd268250800000000000000
+      internalID: 5946490785030414586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_6
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 884
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d626e0e4f8dd12050800000000000000
+      internalID: 5774139804825313901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_7
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 884
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221be55c4e1397ba0800000000000000
+      internalID: -6090782162408263390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_8
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 883
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9071e20340078e8f0800000000000000
+      internalID: -511035394416044279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_9
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 797
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4452e5f4d552200800000000000000
+      internalID: 154632357677450433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_10
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 709
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df163eb057ed7090800000000000000
+      internalID: -8035011826184478760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_11
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 615
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3908bf448bd7a4920800000000000000
+      internalID: 2975328734216421523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_12
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 517
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9770a03f5f17cb0800000000000000
+      internalID: -4867839298016675360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_13
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 423
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2206f103e08dd13c0800000000000000
+      internalID: -4387112906540490718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_14
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 329
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172eb37d9610f2dd0800000000000000
+      internalID: -2508784913327857039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number-chart-1-100_31156_15
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 235
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a0f7441a2260590800000000000000
+      internalID: -7708435636163769838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      number-chart-1-100_31156_7: -6090782162408263390
+      number-chart-1-100_31156_10: -8035011826184478760
+      number-chart-1-100_31156_2: 8642039916023315532
+      number-chart-1-100_31156_13: -4387112906540490718
+      number-chart-1-100_31156_9: 154632357677450433
+      number-chart-1-100_31156_12: -4867839298016675360
+      number-chart-1-100_31156_3: 8127596522297493898
+      number-chart-1-100_31156_8: -511035394416044279
+      number-chart-1-100_31156_5: 5946490785030414586
+      number-chart-1-100_31156_6: 5774139804825313901
+      number-chart-1-100_31156_14: -2508784913327857039
+      number-chart-1-100_31156_0: 3957937448307038227
+      number-chart-1-100_31156_1: 7010264161952367244
+      number-chart-1-100_31156_11: 2975328734216421523
+      number-chart-1-100_31156_4: 130923165228273259
+      number-chart-1-100_31156_15: -7708435636163769838
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
